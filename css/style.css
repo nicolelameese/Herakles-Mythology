@@ -115,8 +115,7 @@ header {
 }
 
 .background {
-    background-image: url("https://nicolelameese.github.io/pagesbackground");
-
+    background-image: url("http://nicolelameese.github.io/NMED-3250-Assignment-2/Imgs/pagesbackground.png");
     background-size: contain;
     background-position: center;
 }
