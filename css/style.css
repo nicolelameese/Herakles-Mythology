@@ -115,7 +115,7 @@ header {
 }
 
 .background {
-    background-image: url(".../Imgs/pagesbackground.png");
+    background-image: url("/Imgs/pagesbackground.png");
     background-size: contain;
     background-position: center;
 }
